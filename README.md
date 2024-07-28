@@ -1,16 +1,17 @@
-## Hi there 👋
+<h2 align='center'>hi there 👋!</h2>
 
-<!--
-**the-karasik/the-karasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+about me
+---
+name: ruslan aka karasik
+age: 17 yo
+languages: russian (native) & english (b1)
+programming: js, python, go
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+connect
+---
+email: the-karasik@list.ru
+telegram: null
+```
